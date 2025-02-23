@@ -1,4 +1,4 @@
-# Halo, saya [Nama Anda] 👋
+# Halo, saya Renzy Armstrong 👋
 
 Selamat datang di profil GitHub saya! Saya seorang [profesi atau hobi Anda].
 
@@ -19,10 +19,10 @@ Berikut adalah beberapa proyek terbaru saya:
 
 ## Statistik GitHub
 
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=RenzyArmstrong&show_icons=true&theme=radical)
 
 ## Bahasa dan Alat
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenzyArmstrong&layout=compact&theme=radical)
 
 Terima kasih telah mengunjungi profil saya!
