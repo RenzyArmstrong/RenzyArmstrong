@@ -33,8 +33,6 @@ I build, break, and harden things — then automate everything.
 | Project | Description |
 |---------|-------------|
 | [BaronHost](https://baronhost.com) | Web hosting, email & domain services |
-| [readme-md-generator](https://github.com/RenzyArmstrong/readme-md-generator) | Maintained fork — CLI README generator |
-| [pyWhat](https://github.com/RenzyArmstrong/pyWhat) | Maintained fork — identify anything in text |
 
 > *More coming. Actively searching abandoned open-source repos to revive & maintain.*
 
