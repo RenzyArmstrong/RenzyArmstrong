@@ -19,7 +19,7 @@
 ### 🧠 About Me
 
 Developer, network engineer, and cybersecurity enthusiast from Indonesia.  
-I build, break, and harden things — then automate everything.
+I build, break, and harden things — then ship them.
 
 - 🔧 **Full Stack:** PHP/Laravel, Python, Go, TypeScript, JavaScript, C++, C#
 - 🌐 **Infra:** MikroTik, Pterodactyl, Cloudflare Tunnels, Docker, Nginx
@@ -33,8 +33,6 @@ I build, break, and harden things — then automate everything.
 | Project | Description |
 |---------|-------------|
 | [BaronHost](https://baronhost.com) | Web hosting, email & domain services |
-
-> *More coming. Actively searching abandoned open-source repos to revive & maintain.*
 
 ---
 
@@ -81,5 +79,5 @@ I build, break, and harden things — then automate everything.
 </p>
 
 <p align="center">
-  <i>"Build. Break. Fix. Automate. Repeat."</i>
+  <i>"If it breaks, I fix it. If it works, I make it better."</i>
 </p>
