@@ -28,13 +28,13 @@ I build, break, and harden things — then automate everything.
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [readme-md-generator](https://github.com/RenzyArmstrong/readme-md-generator) | CLI that generates beautiful README.md files — now maintained & improved | ★11k |
-| [pyWhat](https://github.com/RenzyArmstrong/pyWhat) | Identify anything in text — emails, IPs, crypto, API keys, and more | ★7.2k |
-| [BaronHost](https://baronhost.com) | Web hosting, email, and domain services | Live |
+| Project | Description |
+|---------|-------------|
+| [BaronHost](https://baronhost.com) | Web hosting, email & domain services |
+| [readme-md-generator](https://github.com/RenzyArmstrong/readme-md-generator) | Maintained fork — CLI README generator |
+| [pyWhat](https://github.com/RenzyArmstrong/pyWhat) | Maintained fork — identify anything in text |
 
 > *More coming. Actively searching abandoned open-source repos to revive & maintain.*
 
