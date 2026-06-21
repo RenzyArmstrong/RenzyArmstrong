@@ -24,7 +24,7 @@ I build, break, and harden things — then automate everything.
 - 🔧 **Full Stack:** PHP/Laravel, Python, Go, TypeScript, JavaScript, C++, C#
 - 🌐 **Infra:** MikroTik, Pterodactyl, Cloudflare Tunnels, Docker, Nginx
 - 🛡️ **Security:** Pentesting, hardening, bug bounty, red team
-- 🏢 **Building:** Game hosting infrastructure, security tooling, and automation pipelines
+- 🏢 **Building:** [BaronHost](https://baronhost.com) — web hosting, game servers, security tooling
 
 ---
 
@@ -34,6 +34,7 @@ I build, break, and harden things — then automate everything.
 |---------|-------------|-------|
 | [readme-md-generator](https://github.com/RenzyArmstrong/readme-md-generator) | CLI that generates beautiful README.md files — now maintained & improved | ★11k |
 | [pyWhat](https://github.com/RenzyArmstrong/pyWhat) | Identify anything in text — emails, IPs, crypto, API keys, and more | ★7.2k |
+| [BaronHost](https://baronhost.com) | Web hosting, email, and domain services | Live |
 
 > *More coming. Actively searching abandoned open-source repos to revive & maintain.*
 
