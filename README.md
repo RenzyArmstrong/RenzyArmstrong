@@ -6,7 +6,6 @@
   <a href="https://github.com/RenzyArmstrong"><img src="https://img.shields.io/badge/GitHub-RenzyArmstrong-181717?style=for-the-badge&logo=github" /></a>
   <a href="mailto:renzyarmstrong@gmail.com"><img src="https://img.shields.io/badge/Email-renzyarmstrong%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://x.com/RenzyArmstrong"><img src="https://img.shields.io/badge/X-%40RenzyArmstrong-000000?style=for-the-badge&logo=x" /></a>
-  <a href="https://articbg.com"><img src="https://img.shields.io/badge/Web-articbg.com-3B82F6?style=for-the-badge&logo=google-chrome" /></a>
 </p>
 
 <p align="center">
@@ -25,7 +24,7 @@ I build, break, and harden things — then automate everything.
 - 🔧 **Full Stack:** PHP/Laravel, Python, Go, TypeScript, JavaScript, C++, C#
 - 🌐 **Infra:** MikroTik, Pterodactyl, Cloudflare Tunnels, Docker, Nginx
 - 🛡️ **Security:** Pentesting, hardening, bug bounty, red team
-- 🏢 **Running:** [ArticBG](https://articbg.com) — game hosting & infrastructure services
+- 🏢 **Building:** Game hosting infrastructure, security tooling, and automation pipelines
 
 ---
 
@@ -35,7 +34,6 @@ I build, break, and harden things — then automate everything.
 |---------|-------------|-------|
 | [readme-md-generator](https://github.com/RenzyArmstrong/readme-md-generator) | CLI that generates beautiful README.md files — now maintained & improved | ★11k |
 | [pyWhat](https://github.com/RenzyArmstrong/pyWhat) | Identify anything in text — emails, IPs, crypto, API keys, and more | ★7.2k |
-| [ArticBG](https://articbg.com) | Game server hosting & cloud infrastructure | Live |
 
 > *More coming. Actively searching abandoned open-source repos to revive & maintain.*
 
@@ -81,7 +79,6 @@ I build, break, and harden things — then automate everything.
   <a href="mailto:renzyarmstrong@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://x.com/RenzyArmstrong"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://github.com/RenzyArmstrong"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://articbg.com"><img src="https://img.shields.io/badge/ArticBG-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 <p align="center">
